@@ -1,4 +1,5 @@
-install: npm install
+install:
+	npm install
 
 run:
 	node bin/run.js
