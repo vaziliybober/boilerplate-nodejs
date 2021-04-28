@@ -28,7 +28,4 @@ publish:
 link: 
 	sudo npm link
 
-publish:
-	npm publish
-
 .PHONY: test
